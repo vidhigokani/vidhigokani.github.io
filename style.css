@@ -18,8 +18,10 @@ h3 {
   font-family: 'Century Gothic';
   text-align: left;
   color: #175d8b;
-  line-height: 0cm;
+  line-height: 1;
   padding-left: 100px;
+  position: relative;
+  float: left;
 }
 ul {
     padding: 0;
@@ -46,7 +48,7 @@ a {
   color: #721AC9;
   font-family: 'Georgia';
   margin-right: 0.8%;
-  align: center;
+  align-items: center; /*fix this area*/
 
 }
 
