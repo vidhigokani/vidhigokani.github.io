@@ -103,18 +103,6 @@ a:hover {
     background-color:#C67FC0;
 }
 
-img{
-    float:right;
-    max-width: 100%;
-    height: 386px;
-    width: 449px;
-    padding-top: 50px;
-    margin: auto 10px;
-    border-radius: 30%;
-    border: 5px solid #F5EBAA
-
-}
-
 
 * {
     margin: 20;
