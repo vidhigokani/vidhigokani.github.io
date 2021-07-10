@@ -1,29 +1,15 @@
-.title {
-    color: #691283;
-    font-family: 'Century Gothic';
-    font-weight: bold;
-    font-size: 400;
-    text-align: left; /*change to center later*/
-    padding-top: 10px;
-    padding-left: 100px;
-    position: static;
-    margin: 1;
-}
-
-h1 {
-  font-size: 400%;
-}
-
 h3 {
   font-size: larger;
   font-family: 'Century Gothic';
   text-align: left;
-  color: #175d8b;
+  color: #5a2323;
   line-height: 1;
-  padding-left: 100px;
   position: relative;
-  float: left;
+  padding-top: 25px;
+  font-size: x-large;
+  text-size-adjust: auto;
 }
+
 ul {
     padding: 0;
     width: 100%;
@@ -40,14 +26,14 @@ ul li a{
   width: 70px;
   padding-right: 30px;
   padding-top: 10px;
-  background-color: #F5EBAA;
+  background-color: #ca9985;
   
 }
 
 a {
   text-decoration: none;
   color: #721AC9;
-  font-family: 'Georgia';
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
   margin-right: 0.8%;
   align-items: center; /*fix this area*/
 
@@ -66,7 +52,7 @@ a:hover {
 
 #top-header {
   overflow: hidden;
-  background-color: #B5E4F2;
+  background-color: #ffffff;
   padding: 20px 10px;
   position: sticky;
   top: 0;
@@ -76,12 +62,12 @@ a:hover {
 
 #top-header a {
   float: right;
-  color: #DE96CF;
+  color: #ffffff;
   text-align: center;
   padding: 12px;
   text-decoration: none;
-  font-family:"Verdana";
-  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
   font-weight: bold;
   line-height: 25px;
   border-radius: 4px;
@@ -89,26 +75,32 @@ a:hover {
 }
 
 #top-header a:hover {
-    color: #510C43;
-    background-color:#C67FC0;
+    color: #ffffff;
+    background-color:#970000;
 }
 
-img{
-    float:right;
-    max-width: 100%;
-    height: 258px;
-    width: 300px;
-    padding-top: 50px;
-    margin: auto 10px;
-    border-radius: 30%;
-    border: 5px solid #F5EBAA
+#logo {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  background-color: #ffffff;
+  padding-left: 20px;
+  font-size: larger;
+  font-weight: bold;
+  color: #000000;
 
 }
 
+h2 {
+  font-family: 'Century Gothic';
+  text-align: center;
+  color: #381c1c;
+  padding-top: 45px;
+  font-size: medium;
+
+}
 
 * {
     margin: 20;
     padding: 50;
-    background-color: #FAF3FB;
+    background-color: #f7f1e7;
 
   }
