@@ -1,0 +1,25 @@
+.title-row{
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 6%;
+    font-family: 'Lora', serif;
+
+}
+
+.whole-body{
+    background-color: #eaeafa;
+    opacity: 0.8;
+    background-image: radial-gradient(#92a698 0.9px, #eaeafa 0.9px);
+    background-size: 18px 18px;
+}
+
+.aboutme-text h5{
+
+    padding-left: 5%;
+    text-align: right;
+}
+
+.aboutme-text .aboutme-text2{
+    padding-left: 7%;
+    padding-right: 7%;
+}
